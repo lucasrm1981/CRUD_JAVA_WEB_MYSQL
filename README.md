@@ -7,3 +7,4 @@
 # CRUD_JAVA_WEB_MYSQL
   
   Feito o CRUD com JAVA WEB, JSP com Banco de dados MYSQL. O conector e os diretórios estão separados a parte do java e webapp.
+ Utilizado Array Lists para exibição.
